@@ -5,14 +5,14 @@ Hide Products and Variations for WooCommerce plugin lets you hide WooCommerce pr
 
 ### You can choose how products should be hidden:
 
-1. Hide products in shop and search results.
-1. Hide products by categories, tags, attributes.
-1. Hide variations by product attributes, custom attributes.
-1. Select products to hide.
-1. Select variations to hide.
-1. Make products non-purchasable.
-1. Make variations non-purchasable.
-1. Hide products & variations completely.
+* Hide products in shop and search results.
+* Hide products by categories, tags, attributes.
+* Hide variations by product attributes, custom attributes.
+* Select products to hide.
+* Select variations to hide.
+* Make products non-purchasable.
+* Make variations non-purchasable.
+* Hide products & variations completely.
 
 ### Features:
 
