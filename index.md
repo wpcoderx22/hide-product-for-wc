@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Hide Products and Variations for WooCommerce
 
-You can use the [editor on GitHub](https://github.com/wpcoderx22/hide-product-for-wc/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hide Products and Variations for WooCommerce plugin lets you hide WooCommerce products or variations depending on customer’s user role.
 
-### Markdown
+### You can choose how products should be hidden:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Hide products in shop and search results.
+1. Hide products by categories, tags, attributes.
+1. Hide variations by product attributes, custom attributes.
+1. Select products to hide.
+1. Select variations to hide.
+1. Make products non-purchasable.
+1. Make variations non-purchasable.
+1. Hide products & variations completely.
 
-```markdown
-Syntax highlighted code block
+### Features:
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wpcoderx22/hide-product-for-wc/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* Hide products by roles or default.
+* Multiple groups conditions.
+* Choose hide products or variations or both.
+* Hide products by categories, tags, attributes.
+* Hide variations by product attributes, custom attributes.
