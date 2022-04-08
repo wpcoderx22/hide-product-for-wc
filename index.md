@@ -43,5 +43,8 @@ Hide Products and Variations for WooCommerce plugin lets you hide WooCommerce pr
 
 https://youtu.be/1NeG6gl4ZaY
 
-[![BoombCripto Video](https://img.youtube.com/vi/1NeG6gl4ZaY/0.jpg)](https://youtu.be/1NeG6gl4ZaY)
+[![Demo Video](https://img.youtube.com/vi/1NeG6gl4ZaY/0.jpg)](https://youtu.be/1NeG6gl4ZaY)
+
+### Support
+Email: wpcoderx22@gmail.com
 
