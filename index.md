@@ -39,7 +39,7 @@ Hide Products and Variations for WooCommerce plugin lets you hide WooCommerce pr
 1. In Admin page -> `Product` -> `Hide Products` -> Click to Default Tab (other role tabs) then click `Add Group` button to add condtions to hide your products.
 
 
-Videos:
+### Videos:
 
 https://youtu.be/1NeG6gl4ZaY
 
